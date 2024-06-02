@@ -5,7 +5,7 @@ Submission untuk kelas "Belajar Membuat Front-End Web untuk Pemula" [Dicoding In
 # Vercel Deploy
   https://bookshelf-apps-kappa.vercel.app/
 
-## Instalasi
+## Instalation
 
 To run this project locally, follow these steps:
 
@@ -14,4 +14,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/usernameanda/bookshelf-apps.git
 
-2. npm install   
+2. install
+    ```bash
+    npm install   
